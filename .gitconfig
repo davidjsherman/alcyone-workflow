@@ -1,0 +1,3 @@
+[remote "provider"]
+  url = https://gitlab.com/davidjsherman/alcyone-workflow.git
+  fetch = https://gitlab.com/davidjsherman/alcyone-workflow.git
